@@ -1,0 +1,7 @@
+staging:
+  HOST: '0.0.0.0'
+  PORT: '6000'
+
+development:
+  HOST: '127.0.0.1'
+  PORT: '6000'
